@@ -1,5 +1,13 @@
 ### Website Change Log
 
+####September 08, 2015
+#####Version 1.02
+
+* Prototyped form validation
+* Added navbar
+* Restyled form headers
+* Minor CSS tweaks
+
 ####September 03, 2015
 #####Version 1.01
 
