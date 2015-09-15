@@ -1,5 +1,11 @@
 ### Website Change Log
 
+####September 14, 2015
+#####Version 1.04
+
+* Channel form will save and retrieve reference image correctly
+* All forms have delete feature on main page
+
 ####September 11, 2015
 #####Version 1.03
 
