@@ -1,5 +1,10 @@
 ### Website Change Log
 
+####September 15, 2015
+#####Version 1.04
+
+* All forms will allow you to save and retrieve all of the data, including images and audio files
+
 ####September 14, 2015
 #####Version 1.04
 
