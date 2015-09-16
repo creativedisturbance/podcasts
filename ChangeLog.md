@@ -1,5 +1,10 @@
 ### Website Change Log
 
+####September 16, 2015
+#####Version 1.04
+
+* Only admins can retrieve forms
+
 ####September 15, 2015
 #####Version 1.04
 
