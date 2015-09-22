@@ -1,6 +1,11 @@
 ### Website Change Log
 
 ####September 16, 2015
+#####Version 1.05
+
+* Saving forms will now save any files that were uploaded
+
+####September 16, 2015
 #####Version 1.04
 
 * Only admins can retrieve forms
