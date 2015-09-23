@@ -4,6 +4,7 @@
 #####Version 1.05
 
 * Saving forms will now save any files that were uploaded
+* Logout works
 
 ####September 16, 2015
 #####Version 1.04
