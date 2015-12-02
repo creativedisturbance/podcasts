@@ -1,6 +1,11 @@
 ### Website Change Log
 
 ####September 28, 2015
+#####Version 1.0.1
+
+* I now get emails for SQL errors because the forms weren't playing nice.
+
+####September 28, 2015
 #####Version 1.0
 
 * New forms are now live
