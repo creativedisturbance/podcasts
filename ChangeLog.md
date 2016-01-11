@@ -1,5 +1,10 @@
 ### Website Change Log
 
+####January 10, 2016
+#####Version 1.0.2
+
+* Minor stability fixes
+
 ####September 28, 2015
 #####Version 1.0.1
 
